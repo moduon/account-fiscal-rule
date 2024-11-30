@@ -21,6 +21,7 @@
     ],
     'demo': [
         'demo/res_groups.xml',
+        'demo/account_chart_template.xml',
         'demo/account_fiscal_position.xml',
         'demo/account_fiscal_position_template.xml',
     ],
